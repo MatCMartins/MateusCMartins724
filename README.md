@@ -11,8 +11,4 @@ ___
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,mysql,mongodb,aws,html,css,js,react,nodejs)](https://skillicons.dev)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCMartins724&exclude_repo=AcademiaMauaDeProgramacao-Novo&layout=donut-vertical)
-
 ![Mateus C Martins' GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusCMartins724&show_icons=true&theme=radical)
